@@ -27,7 +27,7 @@ export default class ClassesControllers {
         const timeInMinuts = convertHourToMinutes(time)
 
         const classes = await db('classes')
-            .whereExists(function() {
+            .whereExists(function Exists() {
                 this.select('class_schedule.*')
                     .from('class_schedule')
                     .whereRaw('`class_schedule`.`class_id` = `classes`.`id`')
