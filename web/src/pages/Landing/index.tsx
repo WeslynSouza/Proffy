@@ -20,7 +20,7 @@ export default () => {
 
             setTotalConnections(total);
         })
-    }, [])
+    }, []);
 
     return (
         <div id='page-landing'>
