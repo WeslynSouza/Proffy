@@ -31,10 +31,10 @@ Para acessar o layout utilize a ferramenta [figma](https://www.figma.com/file/8o
 
 ```sh
 git clone https://github.com/WeslynSouza/Proffy
-cd backend
+cd server
 npm install
 npm start
-../cd frontend
+../cd web
 npm install
 npm start
 ```
