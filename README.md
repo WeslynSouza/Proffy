@@ -21,11 +21,11 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
-- [Redux](https://redux.js.org)
+- [ReactNative](https://reactnative.dev)
 
 ## 🔖 Layout
 
-Para acessar o layout utilize a ferramenta [figma](https://www.figma.com/file/N8HMunaoAybcg2b8Sqxi90/Untitled)
+Para acessar o layout utilize a ferramenta [figma](https://www.figma.com/file/8oqtSCFMsvdYvgV3jYkgqR/Proffy-Mobile-(Copy))
 
 ## 📌 Como executar
 
